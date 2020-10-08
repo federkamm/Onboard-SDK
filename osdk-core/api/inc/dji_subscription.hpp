@@ -358,7 +358,7 @@ public: // public methods
   }
 
 public: // public variables
-  const static uint8_t   MAX_NUMBER_OF_PACKAGE = 7;
+  const static uint8_t   MAX_NUMBER_OF_PACKAGE = 8;
   VehicleCallBackHandler subscriptionDataDecodeHandler;
 
 private: // private variables
